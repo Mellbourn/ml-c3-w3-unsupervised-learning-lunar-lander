@@ -19,7 +19,7 @@ google-auth==2.29.0
 google-auth-oauthlib==1.2.0
 google-pasta==0.2.0
 grpcio==1.62.1
-gym==0.26.2
+gym==0.24.0
 gym-notices==0.0.8
 h5py==3.10.0
 idna==3.6
