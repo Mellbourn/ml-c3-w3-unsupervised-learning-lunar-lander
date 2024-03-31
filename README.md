@@ -1,5 +1,7 @@
 # Lunar Lander final lab in Machine Learning Specialization
 
+Note: I ultimately failed to get this to work on macOS
+
 ## installation
 
 Does not have to be pip installed: time base64 random itertools
